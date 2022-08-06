@@ -1,11 +1,54 @@
 {
 "Launch": {
-	"LatestVersion": 98,
-	"NewVersionUrl": "http://update.jx2huyenthoai.com/patch/Jx2HuyenThoai-v98.7z"
+	"LatestVersion": 103,
+	"NewVersionUrl": "http://update.jx2huyenthoai.com/patch/Jx2HuyenThoai-v103.7z"
 },
 "LoginServerUrl": "https://jx2huyenthoai.com",
-"LatestVersion": "14.0",
+"LatestVersion": "14.6",
 "Patches": [
+	{
+		"VersionFrom": "14.5",
+		"VersionTo": "14.6",
+		"UpTime": "2022-08-04 06:00",
+		"Url": "http://s3-hcm-r1.longvan.net/up-jx2huyenthoai/up-jx2-14.6.7z",
+		"Desc": "Hoan thien client cho Open Hop Long"
+	},
+	{
+		"VersionFrom": "14.4",
+		"VersionTo": "14.5",
+		"UpTime": "2022-08-04 06:00",
+		"Url": "http://s3-hcm-r1.longvan.net/up-jx2huyenthoai/up-jx2-14.5.7z",
+		"Desc": "Fix skill Vo Nga Tam Phap VDK 6 diem sat thuong"
+	},
+	{
+		"VersionFrom": "14.3",
+		"VersionTo": "14.4",
+		"UpTime": "2022-06-24 06:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-14.4.7z",
+		"Desc": "Alpha test sv Hop Long"
+	},
+	{
+		"VersionFrom": "14.2",
+		"VersionTo": "14.3",
+		"UpTime": "2022-06-24 06:00",
+		"Url": "http://s3-hcm-r1.longvan.net/up-jx2huyenthoai/up-jx2-14.3.7z",
+		"Desc": "Cap nhap mau trang bi"
+	},
+	{
+		"VersionFrom": "14.1",
+		"VersionTo": "14.2",
+		"UpTime": "2022-06-24 06:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-14.2.7z",
+		"Url": "http://s3-hcm-r1.longvan.net/up-jx2huyenthoai/up-jx2-14.2.7z",
+		"Desc": "Cap nhap trang bi Trung Cap Tu Vien va SV BHTA"
+	},
+	{
+		"VersionFrom": "14.0",
+		"VersionTo": "14.1",
+		"UpTime": "2022-06-24 06:00",
+		"Url": "http://s3-hcm-r1.longvan.net/up-jx2huyenthoai/up-jx2-14.1.7z",
+		"Desc": "Cap nhap hinh anh trang bi Ngu Long"
+	},
 	{
 		"VersionFrom": "13.9",
 		"VersionTo": "14.0",
